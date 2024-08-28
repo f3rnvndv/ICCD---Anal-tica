@@ -1,0 +1,139 @@
+,modelo,precio_normal,precio_oferta,tienda,category
+0,iphone 15 pro 256gb,1199990,819990,falabella,pro
+1,iphone 15 pro max 256gb,1349990,819990,falabella,pro max
+2,iphone 15 128gb,849990,819990,falabella,standard
+3,iphone 15 pro max 512gb,1499990,1079990,falabella,pro max
+4,iphone 11 128gb,429990,1079990,falabella,standard
+5,iphone 15 pro 128gb,1129990,1079990,falabella,pro
+6,iphone 15 256gb,799990,719990,falabella,standard
+7,iphone 14 256gb,929990,719990,falabella,standard
+8,iphone 14 128gb,739990,719990,falabella,standard
+9,iphone 13 128gb,619990,589990,falabella,standard
+10,iphone 15 512gb,999990,479990,falabella,standard
+11,iphone 12 128gb,499990,479990,falabella,standard
+12,iphone 15 pro 256gb,1199990,819990,falabella,pro
+13,iphone 15 pro max 256gb,1349990,819990,falabella,pro max
+14,iphone 15 128gb,849990,819990,falabella,standard
+15,iphone 15 pro max 512gb,1499990,1079990,falabella,pro max
+16,iphone 11 128gb,429990,1079990,falabella,standard
+17,iphone 15 pro 128gb,1129990,1079990,falabella,pro
+18,iphone 15 256gb,799990,719990,falabella,standard
+19,iphone 14 256gb,929990,719990,falabella,standard
+20,iphone 14 128gb,739990,719990,falabella,standard
+21,iphone 13 128gb,619990,589990,falabella,standard
+22,iphone 15 512gb,999990,479990,falabella,standard
+23,iphone 12 128gb,499990,479990,falabella,standard
+24,iphone 13 128gb,619990,599990,paris,standard
+25,iphone 15 128gb,849990,819990,paris,standard
+26,iphone 15 128gb,849990,819990,paris,standard
+27,iphone 12 128gb,499990,479990,paris,standard
+28,iphone 12 128gb,499990,479990,paris,standard
+29,iphone 13 128gb,619990,599990,paris,standard
+30,iphone 15 pro max 256gb,1379990,1289990,paris,pro
+31,iphone 11 64gb,399990,379990,paris,standard
+32,iphone 15 pro max 256gb,1379990,1289990,paris,pro
+33,iphone 13 128gb,529990,529990,paris,standard
+34,iphone 15 plus 128gb,999990,949990,paris,plus
+35,iphone 14 128gb,729990,699990,paris,standard
+36,iphone 15 pro 256gb,1199990,1199990,paris,pro
+37,iphone 11 64gb,399990,379990,paris,standard
+38,iphone 15 pro max 256gb,1379990,1289990,paris,pro
+39,iphone 15 128gb,849990,819990,paris,standard
+40,iphone 14 128gb,729990,699990,paris,standard
+41,iphone 15 pro max 512gb,1499990,1499990,paris,pro
+42,iphone 15 pro max 256gb,1379990,1289990,paris,pro
+43,iphone 15 pro 128gb,1149990,1049990,paris,pro
+44,iphone 14 128gb,729990,699990,paris,standard
+45,iphone 15 pro 128gb,1149990,1049990,paris,pro
+46,iphone 15 pro 128gb,1149990,1049990,paris,pro
+47,iphone 15 plus 128gb,999990,929990,paris,plus
+48,iphone 12 128gb,799990,480000,wom,standard
+49,iphone 14 128gb,949990,720000,wom,standard
+50,iphone 13 128gb,889990,660000,wom,standard
+51,iphone 15 pro 128gb,1249990,1120800,wom,pro
+52,iphone 15 128gb,999990,880800,wom,standard
+53,iphone 15 pro max  256gb,1499990,1348800,wom,pro max
+54,iphone 11 64gb,699990,399990,hites,standard
+55,iphone 11 64gb,699990,399990,hites,standard
+56,iphone 11 64gb,699990,399990,hites,standard
+57,iphone 12 128gb,799990,529990,hites,standard
+58,iphone 13 128gb,869990,679990,hites,standard
+59,iphone 13 256gb,929990,729990,hites,standard
+60,iphone 14 128gb,949990,699990,hites,standard
+61,iphone 14 128gb,949990,749990,hites,standard
+62,iphone 14 plus 256gb,1249990,899990,hites,plus
+63,iphone 15 128gb,1099990,829990,hites,standard
+64,iphone 15 negro 256gb,1199990,979990,hites,standard
+65,iphone 15 pro max 256gb,1599990,1399990,hites,pro max
+66,iphone 15 pro 256gb,1499990,1249990,hites,pro
+67,iphone 15 512gb,1349990,1199990,hites,standard
+68,iphone 14 128gb,949990,719990,la polar,standard
+69,iphone 11 64gb,499990,379990,la polar,standard
+70,iphone 15 128gb,1099990,849990,la polar,standard
+71,iphone 13 256gb,939990,699990,la polar,standard
+72,iphone 15 pro max 256gb,1699990,1299990,la polar,pro max
+73,iphone 15 pro 256gb,1599990,1199990,la polar,pro
+74,iphone 15 256gb,1249990,949990,la polar,standard
+75,iphone 15 512gb,1799990,999990,la polar,standard
+76,iphone 15 pro 512gb,1899990,1349990,la polar,pro
+77,iphone 15 plus 256gb,1399990,1099990,la polar,plus
+78,iphone 15 plus 128gb,1099990,969990,mercado libre,plus
+79,iphone 14 256gb,1099990,848990,mercado libre,standard
+80,iphone 13 512gb,1199990,869990,mercado libre,standard
+81,iphone 13 512gb,1199990,869990,mercado libre,standard
+82,iphone 15 pro 512gb,1579990,1418990,mercado libre,pro
+83,iphone 13 512gb,1199990,869990,mercado libre,standard
+84,iphone 15 pro max 512gb,1699990,1535180,mercado libre,pro max
+85,iphone 15 plus 512gb,1523090,1249990,mercado libre,plus
+86,iphone 15 128gb,999990,879990,mercado libre,standard
+87,iphone 12 128gb,949990,625990,mercado libre,standard
+88,iphone 15 plus 128gb,1099990,969990,mercado libre,plus
+89,iphone 13 512gb,1199990,869990,mercado libre,standard
+90,iphone 13 512gb,1199990,869990,mercado libre,standard
+91,iphone 15 plus 256gb,1219990,101666,mercado libre,plus
+92,iphone 15 plus 512gb,1523090,1288226,mercado libre,plus
+93,iphone 15 plus 128gb,1299990,1049990,mercado libre,plus
+94,iphone 11 64gb,669990,359990,mercado libre,standard
+95,iphone 11 64gb,669990,359990,mercado libre,standard
+96,iphone 14 256gb,1099990,789990,mercado libre,standard
+97,iphone 15 pro max 512gb,1699990,1469990,mercado libre,pro max
+98,iphone 15 128gb,979990,950590,pcfactory,standard
+99,iphone 15 pro max 256gb,1469990,1425890,pcfactory,pro max
+100,iphone 15 pro max 256gb,1499490,1454490,pcfactory,pro max
+101,iphone 15 pro max 256gb,1499490,1454490,pcfactory,pro max
+102,iphone 11 64gb,469990,349990,lider,standard
+103,iphone 13 128gb,869990,589990,lider,standard
+104,iphone 13 256gb,899990,689990,lider,standard
+105,iphone 14 128gb,899990,699990,lider,standard
+106,iphone 14 128gb,899990,699990,lider,standard
+107,iphone 14 plus 256gb,1229990,889990,lider,plus
+108,iphone 15 pro 512gb,1729990,1359990,lider,pro
+109,iphone 14 128gb,739990,699990,ripley,standard
+110,iphone 15 pro 128gb,179990,1049990,ripley,pro
+111,iphone 15 128gb,849990,819990,ripley,standard
+112,iphone 13 128gb,649990,619990,ripley,standard
+113,iphone 15 pro max 256gb,1349990,1299990,ripley,pro max
+114,iphone 11 64gb,399990,379990,ripley,standard
+115,iphone 15 plus 128gb,199990,999990,ripley,plus
+116,iphone 15 pro max 512gb,1699990,1549990,ripley,pro max
+117,iphone 15 pro 512gb,1599990,1499990,ripley,pro
+118,iphone 13 256gb,999990,749990,ripley,standard
+119,iphone 14 128gb,1029990,829900,claro,standard
+120,iphone 13 128gb,889990,623760,claro,standard
+121,iphone 11 64gb,769990,329900,claro,standard
+122,iphone 14 pro max 128gb,1439990,1299900,claro,pro max
+123,iphone 14 plus 128gb,1159990,949900,claro,plus
+124,iphone 14 pro 128gb,1299990,1179900,claro,pro
+125,iphone 12 128gb,749990,499990,movistar,standard
+126,iphone 11 64gb,549990,394990,movistar,standard
+127,iphone 11 128gb,729990,454990,movistar,standard
+128,iphone 13 128gb,879990,629990,movistar,standard
+129,iphone 15 128gb,979990,879990,movistar,standard
+130,iphone 12 64gb,749990,564990,movistar,standard
+131,iphone 15 pro max 256gb,1469990,1369990,movistar,pro max
+132,iphone 15 pro 128gb,1229990,1119990,movistar,pro
+133,iphone 15 plus 128gb,199990,999990,movistar,plus
+134,iphone 14 plus 512gb,1499990,1399990,movistar,plus
+135,iphone 13 pro 1tb,1649990,1649990,movistar,pro
+136,iphone 13 512gb,1199990,999990,movistar,standard
+137,iphone 14 512gb,1369990,1039990,movistar,standard
