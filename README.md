@@ -15,7 +15,8 @@ El análisis está organizado en tres notebooks de Python, cada uno encargado de
 ##### Datos incluidos
 El repositorio también contiene todos los archivos .csv generados durante la fase de scraping.
 
-
-
-
-
+### Integrantes
+Fernanda Bravo C.
+Belén Díaz D.
+Esteban Gómez T.
+Rodrigo Reyes M.
